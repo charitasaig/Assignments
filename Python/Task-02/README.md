@@ -1,19 +1,22 @@
-# Task 02 - Python Logic Building Level 2
+# Task 02 - Python Logic Building 
 
 ## Objective
-Practice intermediate Python programming by solving real-world logical problems.
+Enhance Python programming skills by solving intermediate-level logical problems using dictionaries, loops, file handling, and exception handling.
 
 ## Topics Covered
-- Dictionaries
+- Dictionaries and Dictionary Methods
 - While Loops
 - File Handling
 - Exception Handling
 
-## Status
-Completed ✅
+## Files
+-ASSIGNMENT2.ipynb
 
 ## Learning Outcomes
-- Improved problem-solving skills.
-- Practiced using dictionaries and loops.
-- Learned file handling operations.
-- Gained experience with exception handling.
+- Worked with dictionary operations
+- Practiced file reading and writing
+- Implemented exception handling for robust programs
+- Improved logical thinking through real-world problems
+
+## Status
+✅ Completed
